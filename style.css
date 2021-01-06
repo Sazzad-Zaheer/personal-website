@@ -1,0 +1,88 @@
+                                                                                                    body {
+                                                                                                        margin: 0;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .big-latter {
+                                                                                                        font-family: 'Bebas Neue', cursive;
+                                                                                                    }
+                                                                                                    
+                                                                                                    p {
+                                                                                                        font-family: 'Roboto', sans-serif;
+                                                                                                        margin-bottom: 20px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    section {
+                                                                                                        height: 500px;
+                                                                                                        padding-bottom: 200px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .half-width {
+                                                                                                        width: 40%;
+                                                                                                        float: left;
+                                                                                                        padding-left: 40px;
+                                                                                                        margin-left: 80px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    #nav {
+                                                                                                        text-decoration: none;
+                                                                                                        padding: 20px;
+                                                                                                        margin-bottom: 20px;
+                                                                                                        font-weight: 700px;
+                                                                                                        color: black;
+                                                                                                        border-radius: 6px;
+                                                                                                        font-weight: Bold;
+                                                                                                        border: none;
+                                                                                                        float: right;
+                                                                                                        font-family: 'Roboto', sans-serif;
+                                                                                                        margin-bottom: 50px;
+                                                                                                        margin-right: 30px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .noDec {
+                                                                                                        text-decoration: none;
+                                                                                                        padding: 20px 50px 20px 50px;
+                                                                                                        background-image: linear-gradient(to right, rgba(54, 194, 159, 0.774), rgb(45, 35, 138));
+                                                                                                        font-weight: 700px;
+                                                                                                        color: white;
+                                                                                                        border-radius: 6px;
+                                                                                                        font-weight: 900px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    .box-shadow {
+                                                                                                        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                                                                                                        border-radius: 10px;
+                                                                                                        padding: 10px 15px;
+                                                                                                        margin-left: 10px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    #box-left {
+                                                                                                        display: inline-block;
+                                                                                                        width: 25%;
+                                                                                                        padding-left: 10px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    #box-right {
+                                                                                                        display: inline-block;
+                                                                                                        width: 25%;
+                                                                                                        padding-left: 10px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    #box-center {
+                                                                                                        display: inline-block;
+                                                                                                        width: 25%;
+                                                                                                        padding-left: 10px;
+                                                                                                    }
+                                                                                                    
+                                                                                                    #work-img {
+                                                                                                        background-image: url(resource/Group_33094_1.png);
+                                                                                                        background-repeat: no-repeat;
+                                                                                                        background-size: 80%;
+                                                                                                        padding: 20px;
+                                                                                                        margin-left: 25%;
+                                                                                                    }
+                                                                                                    
+                                                                                                    #work-text {
+                                                                                                        margin-right: 25%;
+                                                                                                        height: 20%;
+                                                                                                        float: right;
+                                                                                                    }
